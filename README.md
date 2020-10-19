@@ -1,10 +1,13 @@
 ## Languages:
 ✅ Python3
+
 ⚡ C++
+
 ❌ JS
+
 ❌ Rust
 
-## Tecknologies:
+## Technologies:
 🐳 Docker
 
 <!--
