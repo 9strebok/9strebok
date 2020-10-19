@@ -1,7 +1,7 @@
 ## Languages:
-> # Python3
-> # C++
-> # Rust
+> Python3
+> C++
+> Rust
 
 
 <!--
