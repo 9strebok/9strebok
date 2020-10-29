@@ -2,9 +2,9 @@
 
 ## :telescope: Stats: 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true&theme=gruvbox)
+![github stats](https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9strebok&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9strebok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## :pencil2: Skills:
@@ -19,12 +19,12 @@
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=green) 
 ![](https://img.shields.io/badge/-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=brown) 
 
-### :penguin: Main OS:
+## :penguin: Main OS:
 
 ![](https://img.shields.io/badge/-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black)
 
 
-### :hourglass: In Future:
+## :hourglass: In Future:
 ![](https://img.shields.io/badge/-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=brown) 
 ![](https://img.shields.io/badge/-Scala-informational?style=for-the-badge&logo=scala&logoColor=white&color=brown) 
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow) 
