@@ -2,11 +2,6 @@
 
 ## :telescope: Stats: 
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true) -->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9strebok&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <a href="github.com/9strebok/9strebok">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true">
 </a>
@@ -22,13 +17,14 @@
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
+[](https://img.shields.io/badge/-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=brown) 
+
+## :penguin: Main OS:
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=green) 
 ![](https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=brown) 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black)
-
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black)
 
 ## :hourglass: In Future:
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=brown) 
