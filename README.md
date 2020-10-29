@@ -9,13 +9,8 @@
 
 ## :pencil2: Skills:
 
-### :computer: Technologies:
-
 ![](https://img.shields.io/badge/-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue)
-
-### :tongue: Stack Programming Languages:
-
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=green) 
 ![](https://img.shields.io/badge/-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=brown) 
 
