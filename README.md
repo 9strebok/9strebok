@@ -2,16 +2,8 @@
 
 ## :telescope: Stats: 
 
-<a href="github.com/9strebok/9strebok">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true">
-</a>
-
-<a href="github.com/9strebok/9strebok">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9strebok&layout=compact">
-</a>
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=9strebok&hide=css,html,vim)
 
 ## :pencil2: Stack:
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=darkgreen)
