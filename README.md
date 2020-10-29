@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black)
 
 ## :hourglass: In Future:
+![](https://img.shields.io/badge/Language-Swift-informational?style=for-the-badge&logo=swift&logoColor=white&color=orange) 
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=brown) 
 ![](https://img.shields.io/badge/Language-Scala-informational?style=for-the-badge&logo=scala&logoColor=white&color=brown) 
 ---
