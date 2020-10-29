@@ -2,8 +2,8 @@
 
 ## :telescope: Stats: 
 
-![](https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=9strebok&hide=css,html,vim)
+![](https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true&title_color=212121&text_color=212121&bg_color=f2f2f2&icon_color=212121)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=9strebok&hide=css,html,vim&title_color=212121&text_color=212121&bg_color=f2f2f2&icon_color=212121)
 
 ## :pencil2: Stack:
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=darkgreen)
