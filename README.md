@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=green) 
 ![](https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=brown) 
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=brown) 
 
 ## :penguin: Main OS:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black)
