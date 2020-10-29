@@ -1,8 +1,9 @@
-## Languages:
-![Python](https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg) {style="height=32px; width=32px"}
-Rust
+[9strebok](https://iconscout.com/icons/github)
+## Stack
 
-## Technologies:
+
+Rust
+---
 :whale: Docker
 
 <!--
