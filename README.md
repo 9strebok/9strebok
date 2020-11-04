@@ -5,10 +5,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=9strebok&show_icons=true&title_color=212121&text_color=212121&bg_color=f1f1f1&icon_color=212121)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=9strebok&hide=css,html,vim&title_color=212121&text_color=212121&bg_color=f1f1f1&icon_color=212121)
 
+---
+
 ## :pencil2: Stack:
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=green) 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=brown) 
+
+---
 
 ## :penguin: Main OS:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=black)
