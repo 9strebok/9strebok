@@ -49,9 +49,9 @@
 ---
 
 ### JVM
-![](https://img.shields.io/badge/Languages-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=brown) 
-![](https://img.shields.io/badge/Languages-Scala-informational?style=for-the-badge&logo=scala&logoColor=white&color=brown) 
-![](https://img.shields.io/badge/Languages-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=brown) 
+![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=brown) 
+![](https://img.shields.io/badge/Language-Scala-informational?style=for-the-badge&logo=scala&logoColor=white&color=brown) 
+![](https://img.shields.io/badge/Language-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=brown) 
 
 ---
 
