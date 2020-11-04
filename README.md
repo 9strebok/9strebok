@@ -7,9 +7,7 @@
 
 ## :pencil2: Stack:
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=darkgreen)
-
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=green) 
-
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=brown) 
 
 ## :penguin: Main OS:
