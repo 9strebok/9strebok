@@ -20,11 +20,11 @@
 ---
 
 ## :notes: I'm learning now:
-![](https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Golang-informational?style=for-the-badge&logo=golang&logoColor=white&color=darkgray) 
 ![](https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=brown) 
 ![](https://img.shields.io/badge/Language-Haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=darkgray) 
-
+![](https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
 ---
 
 ## :hourglass: Notes:
